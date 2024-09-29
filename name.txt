@@ -6,10 +6,10 @@ name:
 4. Alexander Druzenko
 4. Emmanuel Chiobi
 5. Sarvagn Pathak
-6.Laxsikan Manoranjan
+6. Laxsikan Manoranjan
 7. Risha Shah
 8. Impana Ganapathi Shetty
-9.
+9. Sandeep Pyla
 10.
 11.
 12.
